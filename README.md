@@ -1,5 +1,3 @@
-# RocketHelp
-
 <div align="center">
   <img src="src/assets/to_Readme/rockethelp_img.png" />
 </div>
