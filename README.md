@@ -2,7 +2,7 @@
 
 Aplicativo para controle de solicitações de ajuda.
 <p align="center">
-  <a href="#projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#:page_facing_up:projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-executar">Como executar</a>
@@ -12,7 +12,7 @@ Aplicativo para controle de solicitações de ajuda.
   <img src="src/assets/to_Readme/rockethelp_img.png" />
 </div>
 
-## Projeto
+## :page_facing_up: Projeto
 Projeto do Ignite Lab de React Native da Rocketseat. Que foi utilizado React Native com Expo, TypeScript e o NativeBase para criar as interfaces com produtividade. Também foi integrado o Firebase para utilizar o banco de dados Cloud Firestore para armazenar os dados da aplicação em tempo real.
 
 ## :art: Layout
