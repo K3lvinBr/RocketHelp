@@ -46,7 +46,7 @@ $ npm install
 # Execute a aplicação
 $ expo start
 
-# Baixe o Expo Go no seu dispositivo para IOS ou Android e leia o Código QR
+# Baixe o Expo Go no seu dispositivo para Android ou IOS
 ```
 
 ---
